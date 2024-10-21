@@ -35,22 +35,6 @@
 3. *Visit http://localhost:3000 to use the application*
 4. *Use the project-based analysis to explore scores and performance data visualized with bar charts*
 
-## File Structure
-`your-repository/
-│
-├── backend/          # Backend Node.js code
-├── frontend/        # React frontend code
-│   ├── public/      # Static assets
-│   ├── src/         # Source code
-│   ├── api/         # API calls
-│   ├── components/  # React components
-│   ├── pages/       # Pages and views
-│   └── App.js       # Main app component
-│
-├── .gitignore      # Ignored files and folders
-├── README.md       # Project documentation
-└── package.json    # Project metadata`
-
 ## Contact
 * **Name**: Mridul Kumar
 * **Email**: mriduk896@gmail.com
