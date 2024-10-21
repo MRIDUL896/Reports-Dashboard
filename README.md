@@ -27,8 +27,8 @@ This project is a web-based application that provides a project-based analysis b
 
 ### Prerequisites
 Make sure you have the following installed:
-- Node.js (version 14 or above)
-- npm or yarn
+- Node.js
+- npm
 - Git
 
 ## Setup
