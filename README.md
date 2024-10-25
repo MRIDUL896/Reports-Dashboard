@@ -39,7 +39,7 @@ Make sure you have the following installed:
 `cd backend`
 
 2. Install dependencies:
-`npm i axios cors dotenv nodemon`
+`npm i  express axios cors dotenv nodemon`
 
 3. Start the backend server:
 `npm start`
